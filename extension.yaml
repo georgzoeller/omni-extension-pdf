@@ -3,5 +3,7 @@ version: 0.0.1
 description: An a pseudo-3d flipbook based on Mozilla's excellent [PDF.js](https://github.com/mozilla/pdf.js/r) to open pdfs in app
 author: Georg Zoeller
 origin: https://github.com/georgzoeller/omni-extension-pdf
+deprecated: true
+deprecationReason: "The functionality has been moved to the omni-core-viewers core extensions."
 client:
   addToWorkbench: true
